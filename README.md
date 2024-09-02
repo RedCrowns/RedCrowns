@@ -11,7 +11,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/uncroos"/
-    wight = 2500
+    wight = 5000
     hight = 300
   >
 </a>
