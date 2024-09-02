@@ -1,4 +1,6 @@
-# 👋 Hello! 안녕하세요! 안요한입니다.
+# 👋 Hello!
+
+## 서울로봇고등학교 소프트웨어과 안요한입니다.
 
 ## 커리어
 - (現) 서울로봇고등학교 재학
@@ -16,5 +18,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 ## GitHub Stats
-
 ![RedCrowns's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrowns&show_icons=true&theme=radical)
+<a href="https://github.com/devxb/gitanimals">
+        <img
+          src="https://render.gitanimals.org/farms/uncroos"
+          width="600"
+          height="300"
+        />
+</a>
+
