@@ -21,7 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 ## GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncroos&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncroos&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
