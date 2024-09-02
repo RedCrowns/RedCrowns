@@ -3,4 +3,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RedCrowns=RedCrowns)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrowns)](https://github.com/anuraghazra/github-readme-stats)
