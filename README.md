@@ -1,6 +1,8 @@
-# 👋 Hello! I'm RedCrowns
+# 👋 Hello! 안녕하세요! 안요한입니다.
 
-I'm a passionate **[Your Job Title, e.g., Full-Stack Developer, Data Scientist]** with a love for building creative and impactful solutions. I enjoy working with **[Technologies or Areas of Interest, e.g., JavaScript, Python, AI, Cloud Computing]** and I'm always excited to learn and explore new things.
+## 커리어
+- 서울로봇고등학교 SPAM 부장(2024.8.20~)
+- 
 
 ## 🛠️ Tech Stack
 
@@ -17,9 +19,8 @@ I'm a passionate **[Your Job Title, e.g., Full-Stack Developer, Data Scientist]*
 
 ## 📊 GitHub Stats
 
-![RedCrowns's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCrowns&show_icons=true&theme=radical)
+![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCrowns&layout=compact&theme=radical)
 
 ## 🌱 A Little More About Me
 
