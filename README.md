@@ -10,8 +10,5 @@
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/uncroos"/
-    wight = 5000
-    hight = 300
-  >
+  <img src="https://render.gitanimals.org/farms/uncroos"/>
 </a>
