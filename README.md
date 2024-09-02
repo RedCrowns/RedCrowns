@@ -3,7 +3,7 @@
 ## 서울로봇고등학교 소프트웨어과 안요한입니다.
 
 ## about me
-- ![](https://visitor-badge.glitch.me/badge?page_id=uncroos)
+![](https://visitor-badge.glitch.me/badge?page_id=uncroos)
 
 ## 커리어
 - (現) 서울로봇고등학교 재학
